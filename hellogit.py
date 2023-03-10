@@ -1,2 +1,2 @@
 print("New Hello Git!")
-print("¿Qué tal?")
+print("¿What's up?")
